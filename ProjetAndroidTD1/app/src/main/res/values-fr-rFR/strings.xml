@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android</string>
+    <string name="title">Fan de Rainbow</string>
+    <string name="inputText">Quel est son nom ?</string>
+    <string name="buttonContent">Envoyer</string>
+</resources>

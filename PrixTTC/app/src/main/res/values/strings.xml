@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prix TTC</string>
+    <string name="concatPrix">Concaténation Prix</string>
+    <string name="sumPrix">0.0</string>
+    <string name="editContent">Contenu au fil de l\'eau</string>
+    <string name="boutonValide">Conversion TTC</string>
+    <string name="editText">Entrer prix HT</string>
+</resources>

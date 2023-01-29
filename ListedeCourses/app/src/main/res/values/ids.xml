@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="imgPant" />
+    <item type="id" name="imgVest" />
+    <item name="imgTS" type="id" />
+    <item type="id" name="nbPant" />
+    <item type="id" name="nbVest" />
+    <item name="nbTS" type="id" />
+
+</resources>

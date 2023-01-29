@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Liste de Courses</string>
+    <string name="veste">Veste</string>
+    <string name="pantalon">Pantalon</string>
+    <string name="tshirt">TShirt</string>
+    <string name="plus">+</string>
+    <string name="defEdit">1</string>
+    <string name="minus">-</string>
+    <string name="add">Ajouter</string>
+    <string name="remove">Retirer</string>
+    <string name="pay">Payer</string>
+</resources>

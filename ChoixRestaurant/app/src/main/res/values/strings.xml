@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Choix Restaurant</string>
+    <string name="titrePage">Formule Client:</string>
+    <string name="platDessert">Plat + Dessert</string>
+    <string name="entreePlat">Plat + Entree</string>
+    <string name="entreePlatDessert">Entree + Plat + Dessert</string>
+    <string name="prixEntreePlat">13€</string>
+    <string name="prixPlatDessert">14€</string>
+    <string name="prixEPD">16€</string>
+    <string name="txtSuppl">Suppléments :</string>
+    <string name="prixSuppl">(2€ chacun)</string>
+    <string name="checkApero">Apéritif</string>
+    <string name="checkCafe">Café</string>
+    <string name="checkFromage">Fromage</string>
+    <string name="checkBeer">Bière Pression</string>
+    <string name="checkTerras">Service Terrasse</string>
+    <string name="checkPoulet">Poulet</string>
+    <string name="textFacture">Facture client:</string>
+    <string name="menuChoisi">Menu Choisi:</string>
+    <string name="prixAct2">Prix :</string>
+
+</resources>

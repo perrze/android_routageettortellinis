@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 editContent.setText(s);
             }
         };
+
         editTextPrix.addTextChangedListener(textWatcher);
 
     }
